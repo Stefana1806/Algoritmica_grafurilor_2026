@@ -1,20 +1,20 @@
-# Algoritmica_grafurilor_2026
+# Graph Algorithms Project (C++)
 
-O aplicație dezvoltată în **C++** folosind biblioteca **WinBGIm** pentru vizualizarea și manipularea grafurilor (atât orientate, cât și neorientate) în mod grafic.
+An application developed in **C++** using the **WinBGIm** library for visualizing and manipulating graphs (both directed and undirected) graphically.
 
-## Funcționalități
+## Features
 
-* **Creare & Editare Grafuri:**
-  * Plasare interactivă de noduri cu mouse-ul.
-  * Desenare de muchii (neorientate) și arce (orientate).
-  * Adăugare de costuri pe muchii/arce.
-  * Mutarea nodurilor și funcție de **Undo**.
-* **Algoritmi implementați:**
-  * Parcurgeri: **BFS** și **DFS** (cu vizualizare pas cu pas).
-  * Drumuri minime: **Dijkstra**, **Bellman-Ford**, **Floyd-Warshall**.
-  * Arbori de acoperire minimă (APM): **Algoritmul lui Prim**.
-  * Proprietăți: Verificare graf **Eulerian** și **Hamiltonian**.
-* **Salvare & Încărcare:**
-  * Posibilitatea de a salva și încărca graful curent dintr-un fișier text.
-* **Personalizare:**
-  * Schimbarea culorilor interfeței și a fonturilor.
+* **Graph Creation & Editing:**
+  * Interactive node placement using the mouse.
+  * Drawing edges (undirected) and arcs (directed).
+  * Adding weights/costs to edges/arcs.
+  * Node repositioning and **Undo** functionality.
+* **Implemented Algorithms:**
+  * Traversals: **BFS** and **DFS** (with step-by-step visualization).
+  * Shortest Paths: **Dijkstra**, **Bellman-Ford**, **Floyd-Warshall**.
+  * Minimum Spanning Tree (MST): **Prim's Algorithm**.
+  * Properties: **Eulerian** and **Hamiltonian** graph verification.
+* **Save & Load:**
+  * Ability to save and load the current graph from a text file.
+* **Customization:**
+  * Interface color and font changing options.
