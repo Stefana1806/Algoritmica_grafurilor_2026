@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1768323244 source:c:\users\user\desktop\info\algoritmica grafurilor_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+
